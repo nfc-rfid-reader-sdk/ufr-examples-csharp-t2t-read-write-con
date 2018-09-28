@@ -1,0 +1,10 @@
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\obj\Release\T2T_Read_and_Write.Form1.resources
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\obj\Release\T2T_Read_and_Write.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\obj\Release\T2T_Read_and_Write.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\obj\Release\T2T_Read_and_Write.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\bin\Release\T2T_Read_and_Write.exe.config
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\bin\Release\T2T_Read_and_Write.exe
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\bin\Release\T2T_Read_and_Write.pdb
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\obj\Release\T2T_Read_and_Write.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\obj\Release\T2T_Read_and_Write.exe
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\T2T_Read_and_Write\T2T_Read_and_Write\obj\Release\T2T_Read_and_Write.pdb
